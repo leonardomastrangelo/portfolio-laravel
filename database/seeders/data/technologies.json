@@ -1,0 +1,44 @@
+[
+  {
+    "name": "HTML",
+    "slug": "html",
+    "icon": "fa-brands fa-html5",
+    "project_ids" : [1,2,3]
+  },
+  {
+    "name": "CSS",
+    "slug": "css",
+    "icon": "fa-brands fa-css3-alt",
+    "project_ids" : [1,2,3]
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "icon": "fa-brands fa-js",
+    "project_ids" : [1,2,3]
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "icon": "fa-brands fa-php",
+    "project_ids" : [2,3]
+  },
+  {
+    "name": "Bootstrap",
+    "slug": "bootstrap",
+    "icon": "fa-brands fa-bootstrap",
+    "project_ids" : [1,2,3]
+  },
+  {
+    "name": "Vue.js",
+    "slug": "vuejs",
+    "icon": "fa-brands fa-vuejs",
+    "project_ids" : [1,2,3]
+  },
+  {
+    "name": "Laravel",
+    "slug": "laravel",
+    "icon": "fa-brands fa-laravel",
+    "project_ids" : [2,3]
+  }
+]

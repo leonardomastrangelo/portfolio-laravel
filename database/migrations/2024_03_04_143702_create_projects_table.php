@@ -20,7 +20,7 @@ return new class extends Migration {
             $table->string('logo', 255);
             $table->string('type', 50);
             $table->string('github', 255);
-            $table->string('link', 255);
+            $table->string('link', 255)->nullable();
             $table->boolean('team');
             $table->timestamps();
         });

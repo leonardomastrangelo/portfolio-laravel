@@ -1,0 +1,41 @@
+[
+  {
+    "title" : "Boolflix",
+    "slug" : "boolflix",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu lobortis elementum nibh tellus molestie nunc. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Mi bibendum neque egestas congue quisque egestas diam in. Mauris ultrices eros in cursus. Ornare suspendisse sed nisi lacus sed viverra. Suspendisse in est ante in nibh. Dui faucibus in ornare quam viverra orci. Proin sagittis nisl rhoncus mattis rhoncus. In dictum non consectetur a erat nam. Vel orci porta non pulvinar neque. Aliquam nulla facilisi cras fermentum odio. Egestas diam in arcu cursus. At consectetur lorem donec massa sapien faucibus et molestie ac. At risus viverra adipiscing at in tellus. Eu mi bibendum neque egestas.",
+    "status" : 1,
+    "preview" : "previews/boolflix-prev.png",
+    "logo" : "logos/boolflix-logo.png",
+    "type" : "Front End",
+    "github" : "https://github.com/leonardomastrangelo/vite-boolflix",
+    "link" : null,
+    "team" : 0,
+    "technology_ids" : [1, 2, 3, 5, 6]
+  },
+  {
+    "title" : "Booleansgate",
+    "slug" : "booleansgate",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu lobortis elementum nibh tellus molestie nunc. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Mi bibendum neque egestas congue quisque egestas diam in. Mauris ultrices eros in cursus. Ornare suspendisse sed nisi lacus sed viverra. Suspendisse in est ante in nibh. Dui faucibus in ornare quam viverra orci. Proin sagittis nisl rhoncus mattis rhoncus. In dictum non consectetur a erat nam. Vel orci porta non pulvinar neque. Aliquam nulla facilisi cras fermentum odio. Egestas diam in arcu cursus. At consectetur lorem donec massa sapien faucibus et molestie ac. At risus viverra adipiscing at in tellus. Eu mi bibendum neque egestas.",
+    "status" : 1,
+    "preview" : "previews/booleansgate-prev.png",
+    "logo" : "logos/booleansgate-logo.png",
+    "type" : "Full Stack",
+    "github" : "https://github.com/Eecodev/vite-booleansgate",
+    "link" : null,
+    "team" : 1,
+    "technology_ids" : [1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "title" : "Deliveboo",
+    "slug" : "deliveboo",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu lobortis elementum nibh tellus molestie nunc. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Mi bibendum neque egestas congue quisque egestas diam in. Mauris ultrices eros in cursus. Ornare suspendisse sed nisi lacus sed viverra. Suspendisse in est ante in nibh. Dui faucibus in ornare quam viverra orci. Proin sagittis nisl rhoncus mattis rhoncus. In dictum non consectetur a erat nam. Vel orci porta non pulvinar neque. Aliquam nulla facilisi cras fermentum odio. Egestas diam in arcu cursus. At consectetur lorem donec massa sapien faucibus et molestie ac. At risus viverra adipiscing at in tellus. Eu mi bibendum neque egestas.",
+    "status" : 1,
+    "preview" : "previews/deliveboo-prev.png",
+    "logo" : "logos/deliveboo-logo.png",
+    "type" : "Full Stack",
+    "github" : "https://github.com/giuliamari04/Deliveboo",
+    "link" : null,
+    "team" : 1,
+    "technology_ids" : [1, 2, 3, 4, 5, 6, 7]
+  }
+]
