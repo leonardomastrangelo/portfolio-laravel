@@ -22,7 +22,6 @@
 <body>
     <div id="app">
 
-        @include('partials.sidebar')
         <main id="main-content" class="wd-90">
             @include('partials.navbar')
             @yield('content')
