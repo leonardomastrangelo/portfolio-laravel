@@ -24,23 +24,4 @@ class ProjectController extends Controller
             'projects' => $projects
         ]);
     }
-    /**
-     * Send a specific project.
-     * 
-     * This function retrieves the details of a project identified by its slug.
-     * It retrieves the project from the database along with its associated technologies
-     * and returns a JSON response containing the project details.
-     * 
-     * @param string $slug
-     * @return \Illuminate\Http\JsonResponse 
-     */
-    public function show($slug)
-    {
-        $project = Project::with('technologies')->where('slug', $slug)->first();
-        return response()->json([
-            'success' => true,
-            'project' => $project
-        ]);
-    }
-
 }

@@ -15,7 +15,7 @@ class Passion extends Model
         'description'
     ];
 
-    public function images()
+    public function passion_images()
     {
         return $this->hasMany(PassionImages::class);
     }

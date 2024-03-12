@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Api\PassionController;
 use App\Http\Controllers\Api\ProjectController;
 use App\Http\Controllers\Api\TechnologyController;
 use Illuminate\Http\Request;
@@ -22,8 +23,10 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 // API projects
 Route::get('/projects', [ProjectController::class, 'index']);
-Route::get('/projects/{slug}', [ProjectController::class, 'show']);
 
 // API technologies
 Route::get('/technologies', [TechnologyController::class, 'index']);
+
+// API passions
+Route::get('/passions', [PassionController::class, 'index']);
 
