@@ -37,6 +37,9 @@ class ProjectSeeder extends Seeder
 
     /**
      * Store Previews and Logos
+     * 
+     * @param string $url
+     * @return string $url
      */
     public static function storeImg($url)
     {

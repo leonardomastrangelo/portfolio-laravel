@@ -20,5 +20,7 @@ class DatabaseSeeder extends Seeder
         // ]);
         $this->call(ProjectSeeder::class);
         $this->call(TechnologySeeder::class);
+        $this->call(PassionSeeder::class);
+        $this->call(PassionImagesSeeder::class);
     }
 }
